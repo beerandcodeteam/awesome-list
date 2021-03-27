@@ -49,6 +49,7 @@ Contato:
 - [Laravel do zero](https://www.youtube.com/playlist?list=PL7ScB28KYHhHEC8DGfhDt7WdHe7s6A56J) - Série em andamento que vai mostrar desde a parte teórica, explicando o que é o Laravel, a criação de um novo projeto, repositório no git até o deploy na AWS.
  	
 ## Laravel
+  - [Documentação do Laravel 8x](documhttps://laravel.com/docs/8.x/installation) - 🇺🇸 Vale lembrar que todos consultam documentação, sempre. Não importa se é Junior ou Senior.
   - [Laravel Helpers de A a Z](https://www.youtube.com/watch?v=5KfpuDNTlaA&list=PL7ScB28KYHhGE9lxkjW0LWPkgoX1yvPC9) - Como trabalhar com cada um dos Helpers do Laravel 7.
 
 ## PHP
