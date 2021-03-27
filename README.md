@@ -37,6 +37,7 @@ Contato:
   + [VS Code](#vs-code)
   + [PhpStorm](#phpstorm)
 - [Ferramentas](#ferramentas)
+- [Mercado de Trabalho](#mercado-de-trabalho)
 
 ## Iniciando com PHP
 - [Curso PHP COMPLETO](https://www.youtube.com/watch?v=YLVFtKIBCyM&list=PL7ScB28KYHhGq58mpLgIVM8Ias4nap4-o) -  Preparando o ambiente, Hello World, Variáveis.
@@ -66,7 +67,8 @@ Contato:
 - [Composer](https://www.youtube.com/watch?v=ZBrAL_aBvTM) - Live Coding: Instalando composer 2.0 (Windows).
 - [Responsively browser](https://responsively.app) - Browser para facilitar e agilizar o desenvolvimento responsivo.
 
-
+## Mercado de Trabalho
+- [Remote | OK ](https://remoteok.io) - 🇺🇸 Vagas para trabalho remoto.
 
  
 # Observações importantes:
