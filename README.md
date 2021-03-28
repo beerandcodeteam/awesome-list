@@ -67,6 +67,7 @@ Contato:
 ## Ferramentas
 - [Composer](https://www.youtube.com/watch?v=ZBrAL_aBvTM) - Live Coding: Instalando composer 2.0 (Windows).
 - [Responsively browser](https://responsively.app) - Browser para facilitar e agilizar o desenvolvimento responsivo.
+- [Grep App](https://grep.app/) - 🇺🇸 Pesquisa em repositórios.
 
 ## Mercado de Trabalho
 - [Remote | OK ](https://remoteok.io) - 🇺🇸 Vagas para trabalho remoto.
