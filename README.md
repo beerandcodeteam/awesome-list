@@ -70,6 +70,7 @@ Contato:
 - [Grep App](https://grep.app/) - 🇺🇸 Pesquisa em repositórios.
 - [Carbon Now](https://carbon.now.sh) - 🇺🇸 Site para criar usadas para demonstrar partes de código (Code snippet).
 - [3v4l](https://3v4l.org) - 🇺🇸 Editor online e shell de PHP. Permite rodar código PHP.
+- [Octotree](https://www.octotree.io/) - 🇺🇸 Extensão para visualizar os arquivos de um repositório em árvore.
 
 
 ## Mercado de Trabalho
