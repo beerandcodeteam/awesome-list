@@ -68,6 +68,9 @@ Contato:
 - [Composer](https://www.youtube.com/watch?v=ZBrAL_aBvTM) - Live Coding: Instalando composer 2.0 (Windows).
 - [Responsively browser](https://responsively.app) - Browser para facilitar e agilizar o desenvolvimento responsivo.
 - [Grep App](https://grep.app/) - 🇺🇸 Pesquisa em repositórios.
+- [Carbon Now](https://carbon.now.sh) - 🇺🇸 Site para criar usadas para demonstrar partes de código (Code snippet).
+- [3v4l](https://3v4l.org) - 🇺🇸 Editor online e shell de PHP. Permite rodar código PHP.
+
 
 ## Mercado de Trabalho
 - [Remote | OK ](https://remoteok.io) - 🇺🇸 Vagas para trabalho remoto.
