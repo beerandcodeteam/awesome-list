@@ -38,6 +38,7 @@ Contato:
   + [PhpStorm](#phpstorm)
 - [Ferramentas](#ferramentas)
 - [Mercado de Trabalho](#mercado-de-trabalho)
+- [TailwindCSS: recursos gratuitos](#tailwindcss-recursos-gratuitos)
 
 ## Iniciando com PHP
 - [Curso PHP COMPLETO](https://www.youtube.com/watch?v=YLVFtKIBCyM&list=PL7ScB28KYHhGq58mpLgIVM8Ias4nap4-o) -  Preparando o ambiente, Hello World, Variáveis.
@@ -76,7 +77,14 @@ Contato:
 ## Mercado de Trabalho
 - [Remote | OK ](https://remoteok.io) - 🇺🇸 Vagas para trabalho remoto.
 
- 
+## TailwindCSS: recursos gratuitos
+- Tail Blocks: <a href="https://tailblocks.cc/" target="_blank">https://tailblocks.cc/</a>
+- Tailwind Kit: <a href="https://www.tailwind-kit.com/" target="_blank">https://www.tailwind-kit.com/</a>
+- Kometa: <a href="https://kitwind.io/products/kometa/" target="_blank">https://kitwind.io/products/kometa/</a>
+- Merak UI: <a href="https://merakiui.com/" target="_blank">https://merakiui.com/</a>
+- Wicked Templates: <a href="https://blocks.wickedtemplates.com/" target="_blank">https://blocks.wickedtemplates.com/</a>
+- Lofi UI: <a href="https://lofiui.co/" target="_blank">https://lofiui.co/</a>
+
 # Observações importantes:
   
 * O nosso trabalho é voluntário.  Somos apaixonados por tecnologia, PHP, Laravel (E cerveja! 🍻🍻🍻). Por isso não podemos oferecer suporte sobre o conteúdo deste repositório. Contamos com a sua curiosidade para desbravar o seu conteúdo da mesma maneira que nós fazemos: estudando a documentação disponível, recorrendo ao Google, Discord, grupos no Telegram e WhatsApp.
