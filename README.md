@@ -78,12 +78,12 @@ Contato:
 - [Remote | OK ](https://remoteok.io) - 🇺🇸 Vagas para trabalho remoto.
 
 ## TailwindCSS: recursos gratuitos
-- https://tailblocks.cc/
-- https://www.tailwind-kit.com/
-- https://kitwind.io/products/kometa/
-- https://merakiui.com/
-- https://blocks.wickedtemplates.com/
-- https://lofiui.co/
+- Tail Blocks: <a href="https://tailblocks.cc/" target="_blank">https://tailblocks.cc/</a>
+- Tailwind Kit: <a href="https://www.tailwind-kit.com/" target="_blank">https://www.tailwind-kit.com/</a>
+- Kometa: <a href="https://kitwind.io/products/kometa/" target="_blank">https://kitwind.io/products/kometa/</a>
+- Merak UI: <a href="https://merakiui.com/" target="_blank">https://merakiui.com/</a>
+- Wicked Templates: <a href="https://blocks.wickedtemplates.com/" target="_blank">https://blocks.wickedtemplates.com/</a>
+- Lofi UI: <a href="https://lofiui.co/" target="_blank">https://lofiui.co/</a>
 
 # Observações importantes:
   
