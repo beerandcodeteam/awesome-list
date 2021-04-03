@@ -38,6 +38,7 @@ Contato:
   + [PhpStorm](#phpstorm)
 - [Ferramentas](#ferramentas)
 - [Mercado de Trabalho](#mercado-de-trabalho)
+- [TailwindCSS: recursos gratuitos](#tailwindcss-recursos-gratuitos)
 
 ## Iniciando com PHP
 - [Curso PHP COMPLETO](https://www.youtube.com/watch?v=YLVFtKIBCyM&list=PL7ScB28KYHhGq58mpLgIVM8Ias4nap4-o) -  Preparando o ambiente, Hello World, Variáveis.
@@ -76,7 +77,14 @@ Contato:
 ## Mercado de Trabalho
 - [Remote | OK ](https://remoteok.io) - 🇺🇸 Vagas para trabalho remoto.
 
- 
+## TailwindCSS: recursos gratuitos
+- https://tailblocks.cc/
+- https://www.tailwind-kit.com/
+- https://kitwind.io/products/kometa/
+- https://merakiui.com/
+- https://blocks.wickedtemplates.com/
+- https://lofiui.co/
+
 # Observações importantes:
   
 * O nosso trabalho é voluntário.  Somos apaixonados por tecnologia, PHP, Laravel (E cerveja! 🍻🍻🍻). Por isso não podemos oferecer suporte sobre o conteúdo deste repositório. Contamos com a sua curiosidade para desbravar o seu conteúdo da mesma maneira que nós fazemos: estudando a documentação disponível, recorrendo ao Google, Discord, grupos no Telegram e WhatsApp.
