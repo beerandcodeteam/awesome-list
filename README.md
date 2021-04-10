@@ -72,6 +72,7 @@ Contato:
 - [Carbon Now](https://carbon.now.sh) - 🇺🇸 Site para criar usadas para demonstrar partes de código (Code snippet).
 - [3v4l](https://3v4l.org) - 🇺🇸 Editor online e shell de PHP. Permite rodar código PHP.
 - [Octotree](https://www.octotree.io/) - 🇺🇸 Extensão para visualizar os arquivos de um repositório em árvore.
+- [Livewire DevTools](https://chrome.google.com/webstore/detail/livewire-devtools/ahcmcdmhdcgbpklkdhpejphjekpmhkll) - 🇺🇸 Extensão para debugar aplicações Livewire.
 
 
 ## Mercado de Trabalho
