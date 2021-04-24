@@ -74,11 +74,12 @@ Contato:
 - [3v4l](https://3v4l.org) - 🇺🇸 Editor online e shell de PHP. Permite rodar código PHP.
 - [Octotree](https://www.octotree.io/) - 🇺🇸 Extensão para visualizar os arquivos de um repositório em árvore.
 - [Livewire DevTools](https://chrome.google.com/webstore/detail/livewire-devtools/ahcmcdmhdcgbpklkdhpejphjekpmhkll) - 🇺🇸 Extensão para debugar aplicações Livewire.
-
+- [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss/) - 🇺🇸 Awesome List.
 
 ## Mercado de Trabalho
 - [Remote | OK ](https://remoteok.io) - 🇺🇸 Vagas para trabalho remoto.
-
+- [Entrevista Reversa](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md) - Perguntas interessantes para fazer ao entrevistador em uma entrevista de emprego. (Também disponível em outras línguas)
+ 
 ## TailwindCSS: recursos gratuitos
 - Tail Blocks: <a href="https://tailblocks.cc/" target="_blank">https://tailblocks.cc/</a>
 - Tailwind Kit: <a href="https://www.tailwind-kit.com/" target="_blank">https://www.tailwind-kit.com/</a>
