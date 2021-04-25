@@ -39,6 +39,7 @@ Contato:
 - [Ferramentas](#ferramentas)
 - [Mercado de Trabalho](#mercado-de-trabalho)
 - [TailwindCSS: recursos gratuitos](#tailwindcss-recursos-gratuitos)
+- [Laravel Livewire](#laravel-livewire)
 
 ## Iniciando com PHP
 - [Curso PHP COMPLETO](https://www.youtube.com/watch?v=YLVFtKIBCyM&list=PL7ScB28KYHhGq58mpLgIVM8Ias4nap4-o) -  Preparando o ambiente, Hello World, Variáveis.
@@ -84,6 +85,11 @@ Contato:
 - Lofi UI: <a href="https://lofiui.co/" target="_blank">https://lofiui.co</a>
 - Tailwind Components: <a href="https://tailwindcomponents.com/" target="_blank">https://tailwindcomponents.com</a>
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss/) - 🇺🇸 Awesome List.
+
+## Laravel Livewire
+- Documentação oficial: <a href="https://laravel-livewire.com/" target="_blank">https://laravel-livewire.com</a>
+- Livewire PowerGrid: <a href="https://github.com/Power-Components/livewire-powergrid/" target="_blank">https://github.com/Power-Components/livewire-powergrid</a>
+
 
 ## Mercado de Trabalho
 - [Remote | OK ](https://remoteok.io) - 🇺🇸 Vagas para trabalho remoto.
