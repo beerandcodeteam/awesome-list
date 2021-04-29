@@ -63,7 +63,6 @@ Contato:
 
 - [ziadoz's PHP Awesome List](https://github.com/ziadoz/awesome-php) - 🇺🇸 Awesome list de coisas relacionadas ao PHP.
 
-
 ## IDES
 
 ### VS CODE
@@ -74,8 +73,7 @@ Contato:
 
 - [Dicas de PhpStorm](https://youtu.be/ZBrAL_aBvTM?t=766) -  Live Coding: Aumentando sua produtividade.
 
- 
-## Ferramentas
+ ## Ferramentas
 
 - [Composer](https://www.youtube.com/watch?v=ZBrAL_aBvTM) - Live Coding: Instalando composer 2.0 (Windows).
 - [Responsively browser](https://responsively.app) - Browser para facilitar e agilizar o desenvolvimento responsivo.
@@ -97,9 +95,9 @@ Contato:
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss/) - 🇺🇸 Awesome List.
 
 ## Laravel Livewire
-- Documentação oficial: <a href="https://laravel-livewire.com/" target="_blank">https://laravel-livewire.com</a>
-- Livewire PowerGrid: <a href="https://github.com/Power-Components/livewire-powergrid/" target="_blank">https://github.com/Power-Components/livewire-powergrid</a>
 
+- [Livewire](https://laravel-livewire.com/) 🇺🇸 Site e documentação oficial
+- [Livewire PowerGrid](https://github.com/Power-Components/livewire-powergrid) - Componente para criar tabelas dinâmicas
 
 ## Mercado de Trabalho
 
@@ -107,7 +105,7 @@ Contato:
 - [Larajobs](https://larajobs.com) - 🇺🇸 Vagas em Laravel
 - [PHPDevBR](https://github.com/phpdevbr/vagas/issues) - 🇺🇸 Vagas
 - [Entrevista Reversa](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md) - Perguntas interessantes para fazer ao entrevistador em uma entrevista de emprego. (Também disponível em outras línguas)
- 
+
 # Observações importantes:
   
 * O nosso trabalho é voluntário.  Somos apaixonados por tecnologia, PHP, Laravel (E cerveja! 🍻🍻🍻). Por isso não podemos oferecer suporte sobre o conteúdo deste repositório. Contamos com a sua curiosidade para desbravar o seu conteúdo da mesma maneira que nós fazemos: estudando a documentação disponível, recorrendo ao Google, Discord, grupos no Telegram e WhatsApp.
