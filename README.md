@@ -39,6 +39,7 @@ Contato:
 - [Ferramentas](#ferramentas)
 - [Mercado de Trabalho](#mercado-de-trabalho)
 - [TailwindCSS: recursos gratuitos](#tailwindcss-recursos-gratuitos)
+- [Laravel Livewire](#laravel-livewire)
 
 ## Iniciando com PHP
 
@@ -92,7 +93,13 @@ Contato:
 - [Merak UI](https://merakiui.com/) - 🇺🇸 Componentes
 - [Wicked Templates](https://blocks.wickedtemplates.com/) - Templates
 - [Lofi UI](https://lofiui.co/) - 🇺🇸 Componentes
+- [Tailwind Components](tailwindcomponents.com) - 🇺🇸 Componentes
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss/) - 🇺🇸 Awesome List.
+
+## Laravel Livewire
+- Documentação oficial: <a href="https://laravel-livewire.com/" target="_blank">https://laravel-livewire.com</a>
+- Livewire PowerGrid: <a href="https://github.com/Power-Components/livewire-powergrid/" target="_blank">https://github.com/Power-Components/livewire-powergrid</a>
+
 
 ## Mercado de Trabalho
 
