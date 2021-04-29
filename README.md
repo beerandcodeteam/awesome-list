@@ -41,32 +41,41 @@ Contato:
 - [TailwindCSS: recursos gratuitos](#tailwindcss-recursos-gratuitos)
 
 ## Iniciando com PHP
+
 - [Curso PHP COMPLETO](https://www.youtube.com/watch?v=YLVFtKIBCyM&list=PL7ScB28KYHhGq58mpLgIVM8Ias4nap4-o) -  Preparando o ambiente, Hello World, Variáveis.
 
 ## Iniciando com Javascript
+
 - [Curso Completo de Javascript](https://www.youtube.com/watch?v=YLVFtKIBCyM&list=PL7ScB28KYHhGq58mpLgIVM8Ias4nap4-o) - Ambiente, Dev Tools e Variáveis.
 
 ## Iniciando com Laravel
+
 - [Laravel do zero](https://www.youtube.com/playlist?list=PL7ScB28KYHhHEC8DGfhDt7WdHe7s6A56J) - Série em andamento que vai mostrar desde a parte teórica, explicando o que é o Laravel, a criação de um novo projeto, repositório no git até o deploy na AWS.
  	
 ## Laravel
+
   - [Documentação do Laravel 8x](https://laravel.com/docs/8.x/installation) - 🇺🇸 Vale lembrar que todos consultam documentação, sempre. Não importa se é Junior ou Senior.
   - [Laravel Book](https://github.com/driade/laravel-book) - 🇺🇸 Documentação do Laravel para uso offline (pdf/mobi/epub).
   - [Laravel Helpers de A a Z](https://www.youtube.com/watch?v=5KfpuDNTlaA&list=PL7ScB28KYHhGE9lxkjW0LWPkgoX1yvPC9) - Como trabalhar com cada um dos Helpers do Laravel 7.
 
 ## PHP
+
 - [ziadoz's PHP Awesome List](https://github.com/ziadoz/awesome-php) - 🇺🇸 Awesome list de coisas relacionadas ao PHP.
 
 
 ## IDES
+
 ### VS CODE
+
 - [Extensões Recomendadas](https://github.com/icarojobs/vscode-useful-extensions) - Lista de extensões recomendadas por Icaro Jobs.
 
 ### PhpStorm
+
 - [Dicas de PhpStorm](https://youtu.be/ZBrAL_aBvTM?t=766) -  Live Coding: Aumentando sua produtividade.
 
  
 ## Ferramentas
+
 - [Composer](https://www.youtube.com/watch?v=ZBrAL_aBvTM) - Live Coding: Instalando composer 2.0 (Windows).
 - [Responsively browser](https://responsively.app) - Browser para facilitar e agilizar o desenvolvimento responsivo.
 - [Grep App](https://grep.app/) - 🇺🇸 Pesquisa em repositórios.
@@ -76,16 +85,20 @@ Contato:
 - [Livewire DevTools](https://chrome.google.com/webstore/detail/livewire-devtools/ahcmcdmhdcgbpklkdhpejphjekpmhkll) - 🇺🇸 Extensão para debugar aplicações Livewire.
 
 ## TailwindCSS: recursos gratuitos
-- Tail Blocks: <a href="https://tailblocks.cc/" target="_blank">https://tailblocks.cc/</a>
-- Tailwind Kit: <a href="https://www.tailwind-kit.com/" target="_blank">https://www.tailwind-kit.com/</a>
-- Kometa: <a href="https://kitwind.io/products/kometa/" target="_blank">https://kitwind.io/products/kometa/</a>
-- Merak UI: <a href="https://merakiui.com/" target="_blank">https://merakiui.com/</a>
-- Wicked Templates: <a href="https://blocks.wickedtemplates.com/" target="_blank">https://blocks.wickedtemplates.com/</a>
-- Lofi UI: <a href="https://lofiui.co/" target="_blank">https://lofiui.co/</a>
+
+- [Tail Blocks](https://tailblocks.cc/) - 🇺🇸 Componentes 
+- [Tailwind Kit](https://www.tailwind-kit.com/)- 🇺🇸 Componentes 
+- [Kometa](https://kitwind.io/products/kometa/) - 🇺🇸 UI kit 
+- [Merak UI](https://merakiui.com/) - 🇺🇸 Componentes
+- [Wicked Templates](https://blocks.wickedtemplates.com/) - Templates
+- [Lofi UI](https://lofiui.co/) - 🇺🇸 Componentes
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss/) - 🇺🇸 Awesome List.
 
 ## Mercado de Trabalho
-- [Remote | OK ](https://remoteok.io) - 🇺🇸 Vagas para trabalho remoto.
+
+- [Remote | OK](https://remoteok.io) - 🇺🇸 Vagas para trabalho remoto.
+- [Larajobs](https://larajobs.com) - 🇺🇸 Vagas em Laravel
+- [PHPDevBR](https://github.com/phpdevbr/vagas/issues) - 🇺🇸 Vagas
 - [Entrevista Reversa](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md) - Perguntas interessantes para fazer ao entrevistador em uma entrevista de emprego. (Também disponível em outras línguas)
  
 # Observações importantes:
