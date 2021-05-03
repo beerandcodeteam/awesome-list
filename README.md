@@ -65,6 +65,8 @@ Contato:
 - [ziadoz's PHP Awesome List](https://github.com/ziadoz/awesome-php) - 🇺🇸 Awesome list de coisas relacionadas ao PHP.
 
 ## IDES
+- [Snippet Generator](https://snippet-generator.app) - 🇺🇸 Gerador de Snippet para VS-Code, Sublime e Atom.
+
 
 ### VS CODE
 
