@@ -37,6 +37,7 @@ Contato:
   + [VS Code](#vs-code)
   + [PhpStorm](#phpstorm)
 - [Ferramentas](#ferramentas)
+- [APIs](#apis)
 - [Mercado de Trabalho](#mercado-de-trabalho)
 - [TailwindCSS: recursos gratuitos](#tailwindcss-recursos-gratuitos)
 - [Laravel Livewire](#laravel-livewire)
@@ -52,7 +53,7 @@ Contato:
 ## Iniciando com Laravel
 
 - [Laravel do zero](https://www.youtube.com/playlist?list=PL7ScB28KYHhHEC8DGfhDt7WdHe7s6A56J) - Série em andamento que vai mostrar desde a parte teórica, explicando o que é o Laravel, a criação de um novo projeto, repositório no git até o deploy na AWS.
- 	
+
 ## Laravel
 
   - [Documentação do Laravel 8x](https://laravel.com/docs/8.x/installation) - 🇺🇸 Vale lembrar que todos consultam documentação, sempre. Não importa se é Junior ou Senior.
@@ -73,7 +74,7 @@ Contato:
 
 - [Dicas de PhpStorm](https://youtu.be/ZBrAL_aBvTM?t=766) -  Live Coding: Aumentando sua produtividade.
 
- ## Ferramentas
+## Ferramentas
 
 - [Composer](https://www.youtube.com/watch?v=ZBrAL_aBvTM) - Live Coding: Instalando composer 2.0 (Windows).
 - [Responsively browser](https://responsively.app) - Browser para facilitar e agilizar o desenvolvimento responsivo.
@@ -82,6 +83,11 @@ Contato:
 - [3v4l](https://3v4l.org) - 🇺🇸 Editor online e shell de PHP. Permite rodar código PHP.
 - [Octotree](https://www.octotree.io/) - 🇺🇸 Extensão para visualizar os arquivos de um repositório em árvore.
 - [Livewire DevTools](https://chrome.google.com/webstore/detail/livewire-devtools/ahcmcdmhdcgbpklkdhpejphjekpmhkll) - 🇺🇸 Extensão para debugar aplicações Livewire.
+
+## API's
+
+- [Public APIs](https://github.com/public-apis/public-apis) - 🇺🇸 Lista de APIs públicas
+- [Awesome APIs Portugal](https://github.com/rgllm/awesome-portugal-data) - 🇵🇹 Lista de APIs para Portugal
 
 ## TailwindCSS: recursos gratuitos
 
@@ -107,5 +113,5 @@ Contato:
 - [Entrevista Reversa](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md) - Perguntas interessantes para fazer ao entrevistador em uma entrevista de emprego. (Também disponível em outras línguas)
 
 # Observações importantes:
-  
+
 * O nosso trabalho é voluntário.  Somos apaixonados por tecnologia, PHP, Laravel (E cerveja! 🍻🍻🍻). Por isso não podemos oferecer suporte sobre o conteúdo deste repositório. Contamos com a sua curiosidade para desbravar o seu conteúdo da mesma maneira que nós fazemos: estudando a documentação disponível, recorrendo ao Google, Discord, grupos no Telegram e WhatsApp.
