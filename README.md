@@ -8,6 +8,8 @@
 <p>
 Redes Sociais:
 <br/><br/>
+✔ Telegram: https://t.me/joinchat/HU7jWfEDn9xzgcND
+<br/>
 ✔ Discord: https://discord.com/invite/mhyKFgv
 <br/>
 ✔ Twitter: https://twitter.com/beerandcodeyt/
