@@ -103,6 +103,7 @@ Contato:
 - [Lofi UI](https://lofiui.co/) - 🇺🇸 Componentes
 - [Tailwind Components](tailwindcomponents.com) - 🇺🇸 Componentes
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss/) - 🇺🇸 Awesome List.
+- [Daisy UI](https://daisyui.com/) - us Componentes
 
 ## Laravel Livewire
 
