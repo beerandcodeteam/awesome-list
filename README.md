@@ -109,7 +109,7 @@ Contato:
 
 - [Livewire](https://laravel-livewire.com/) 🇺🇸 Site e documentação oficial
 - [Livewire PowerGrid](https://github.com/Power-Components/livewire-powergrid) - Componente para criar tabelas dinâmicas
-- [Livewire WireUI Components](https://livewire-wireui.com) - Conjunto de Componentes Blade para TALL Stack
+- [Livewire WireUI Components](https://github.com/PH7-Jack/wireui) - Conjunto de Componentes Blade para TALL Stack
 
 ## Mercado de Trabalho
 
