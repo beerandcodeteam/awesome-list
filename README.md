@@ -55,6 +55,7 @@ Contato:
 ## Iniciando com Laravel
 
 - [Laravel do zero](https://www.youtube.com/playlist?list=PL7ScB28KYHhHEC8DGfhDt7WdHe7s6A56J) - Série em andamento que vai mostrar desde a parte teórica, explicando o que é o Laravel, a criação de um novo projeto, repositório no git até o deploy na AWS.
+- [Adote um DEV](https://www.youtube.com/watch?v=Jmjx2O1Yhe4&list=PL7ScB28KYHhHafrYw8TlT0J2DgAtBdECw) - Série em andamento com Laravel, Tailwind e AlpineJS TALL stack
 
 ## Laravel
 
