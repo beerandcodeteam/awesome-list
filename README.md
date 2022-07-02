@@ -34,6 +34,8 @@ Contato:
 - [Iniciando com Javascript](#iniciando-com-javascript)
 - [Iniciando com Laravel](#iniciando-com-laravel)
 - [Laravel](#laravel)
+- [TALL STACK](#tall-stack)
+- [Projeto prático](#projeto-prático)
 - [PHP](#php)
 - IDEs
   + [VS Code](#vs-code)
@@ -58,10 +60,16 @@ Contato:
 
 ## Laravel
 
-  - [Documentação do Laravel 8x](https://laravel.com/docs/8.x/installation) - 🇺🇸 Vale lembrar que todos consultam documentação, sempre. Não importa se é Junior ou Senior.
+  - [Documentação do Laravel 9x](https://laravel.com/docs/9.x/installation) - 🇺🇸 Vale lembrar que todos consultam documentação, sempre. Não importa se é Junior ou Senior.
   - [Laravel Book](https://github.com/driade/laravel-book) - 🇺🇸 Documentação do Laravel para uso offline (pdf/mobi/epub).
   - [Laravel Helpers de A a Z](https://www.youtube.com/watch?v=5KfpuDNTlaA&list=PL7ScB28KYHhGE9lxkjW0LWPkgoX1yvPC9) - Como trabalhar com cada um dos Helpers do Laravel 7.
   - [Laravel Melhores Práticas](https://github.com/ferox/laravel-melhores-praticas) - Desenvolvendo as Melhores Práticas com o Laravel (traduzido por [@ferox](https://github.com/ferox/)).
+  
+## TALL STACK
+[Laravel na vida real](https://www.youtube.com/watch?v=Jmjx2O1Yhe4&list=PL7ScB28KYHhHafrYw8TlT0J2DgAtBdECw) - Laravel, Livewire, Tailwind CSS e Alpine JS.
+
+## Projeto prático
+[Projeto Prático em Laravel 9](https://www.youtube.com/watch?v=Jmjx2O1Yhe4&list=PL7ScB28KYHhHafrYw8TlT0J2DgAtBdECw) - Sweepstakes, sistema de sorteios.
 
 ## PHP
 
