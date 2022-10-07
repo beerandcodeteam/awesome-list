@@ -97,6 +97,18 @@ Contato:
 - [Octotree](https://www.octotree.io/) - 🇺🇸 Extensão para visualizar os arquivos de um repositório em árvore.
 - [Livewire DevTools](https://chrome.google.com/webstore/detail/livewire-devtools/ahcmcdmhdcgbpklkdhpejphjekpmhkll) - 🇺🇸 Extensão para debugar aplicações Livewire.
 
+## Pacotes gratuitos para estudantes
+
+Ainda é estudante e possui E-mail institucional? Resgate alguns recursos gratuitos para aumentar seu nível de aprendizado e crescer cada vez mais!
+
+- [GitHub Student Developer Pack](https://education.github.com/pack) - Pacote educacional do github com diversos benefícios para web, cloud, infraestrutura, hospedagem e muito mais.
+- [Linkedin](https://members.linkedin.com/pt-br/estudante/linkedin-premium) - Ativação premium do seu perfil no LinkedIn
+- [JetBrains Student Program](https://www.jetbrains.com/community/education/#students) - Lincença individual para diversos produtos JetBrains.
+- [Tinkerwell](https://tinkerwell.app/education) - cupom de 100% de desconto na compra do Tinkerwell.
+- [Office 365](https://www.microsoft.com/pt-br/education/products/office) - Comece a utilizar o Office 365 gratuitamente.
+- [Azure for Students](https://azure.microsoft.com/pt-br/free/students/) - $100 de crédito Azure e serviços populares gratuitos.
+- [AWS Educate](https://aws.amazon.com/pt/education/awseducate/) - Desenvolva suas habilidades em nuvem no seu próprio ritmo, no seu próprio tempo e totalmente de graça.
+
 ## API's
 
 - [Public APIs](https://github.com/public-apis/public-apis) - 🇺🇸 Lista de APIs públicas
